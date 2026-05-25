@@ -83,14 +83,14 @@
 
   
   <url>
-    <loc>https://pklwj.github.io/tags/blog/</loc>
+    <loc>https://pklwj.github.io/tags/hexo/</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://pklwj.github.io/tags/hexo/</loc>
+    <loc>https://pklwj.github.io/tags/blog/</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
